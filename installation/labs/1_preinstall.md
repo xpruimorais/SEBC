@@ -637,5 +637,3 @@ baseurl=https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/5.13.3
 gpgkey =https://archive.cloudera.com/cm5/redhat/7/x86_64/cm/RPM-GPG-KEY-cloudera
 gpgcheck = 1
 ```
-
-**INCOMPLETE...**
