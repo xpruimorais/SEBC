@@ -1,5 +1,5 @@
 ### Cloud Provider
-- Azure (Region: US East 2)
+- Azure (Region: East US 2)
 
 ### Linux Release
 ```
