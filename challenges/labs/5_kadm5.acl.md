@@ -1,0 +1,3 @@
+```
+*/admin@XPRUIMORAIS.SG     *
+```
